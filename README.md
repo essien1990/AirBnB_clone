@@ -1,5 +1,7 @@
 # AirBnB Clone
-![Optional Text](hbnb.png)
+<p align="center">
+  <img src="https://github.com/Adeniyii/AirBnB_clone/hbnb_logo.png" alt="AirBnB-clone logo">
+</p>
 ​
 ## Description of the project
 The goal of the project is to deploy a replica of the [Airbnb Website](https://www.airbnb.com/). The final version of this project will have:
