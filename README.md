@@ -1,6 +1,6 @@
 # AirBnB Clone
 <p align="center">
-  <img src="https://github.com/Adeniyii/AirBnB_clone/hbnb_logo.png" alt="AirBnB-clone logo">
+  <img src="https://github.com/essien1990/AirBnB_clone/hbnb_logo.png" alt="AirBnB-clone logo">
 </p>
 ​
 ## Description of the project
