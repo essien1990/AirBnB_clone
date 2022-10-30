@@ -95,7 +95,7 @@ EOF  help  quit
 (hbnb)
 $
 ```
-# Authors
+# Authors:
 ​
  * Samuel Adjei [Github](https://github.com/mastermind-zed)
  * Felix Adeh Essienne [Github](https://github.com/essien1990)
