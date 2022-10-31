@@ -1,15 +1,14 @@
 #!/usr/bin/python3
 """
-Module for Amenity class
+Amenity class, a subclass of BaseModel
 """
 from models.base_model import BaseModel
 
 
 class Amenity(BaseModel):
-    """Custom amenity class
-
-    Attributes:
-        name(str): amenity name
-
+    """
+    A subclass of BaseModel class
+    Public class attribute:
+        name: (str)
     """
     name = ""
